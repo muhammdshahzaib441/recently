@@ -1,0 +1,6 @@
+/* Medium(786-screeen-view) */
+@media screen and (max-width: 768px) {
+  .img-featured img{
+    height: 100%;
+  }
+  }
